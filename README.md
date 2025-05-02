@@ -1,5 +1,6 @@
 
-Smart Attendance SystemSmart Attendance System
+
+Smart Attendance System
 The "Smart Attendance System" is an innovative solution designed to automate
 and streamline the attendance tracking process in educational institutions
 and workplaces. This system utilizes card swapping technology, which
